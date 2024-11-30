@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Redis-demo
+
+  data:
+    redis:
+      host: localhost
+      port: 6380
+server:
+  port: 8080
